@@ -1,7 +1,6 @@
 const config = {
 
-  port: 3001,
-
+  port: 3001 ,
   database: {
     DATABASE: 'qiubai',
     USERNAME: 'root',
